@@ -13,6 +13,6 @@ Requires `pkg-config`, `clangd`, `gtk4`, and `cmake`.
 
 
 ## References
-http://www.voidcn.com/article/p-ollmkxzl-ya.html
-https://gnome.pages.gitlab.gnome.org/gtk/gtk/gtk-getting-started.html
-https://clangd.llvm.org/installation.html
+- http://www.voidcn.com/article/p-ollmkxzl-ya.html
+- https://gnome.pages.gitlab.gnome.org/gtk/gtk/gtk-getting-started.html
+- https://clangd.llvm.org/installation.html
